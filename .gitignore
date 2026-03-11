@@ -26,7 +26,7 @@ yarn-error.log*
 
 # auto-generated files
 src/version.ts
-
+Alice Fosseneuve 
 
 dist/*
 !dist/index.js
